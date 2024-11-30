@@ -1,0 +1,15 @@
+# Ignore compiled files
+*.class
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+*.iml
+.idea/
+.vscode/
